@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+	"name":"ProjetoTeste",
+	"icon":"./icon.png",
+	"version":"1.0.0",
+	"slug":"projetoteste",
+	"android":{
+		"package":"com.m18web.projetoteste"
+	}
+  }
+}
